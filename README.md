@@ -1,7 +1,5 @@
 # Learning
-Organize learning techniques and applications
-
-Act as a resource to look for solutions and writing ideas.
+The repository organizes learning techniques and applications, aiming to be a resource for solutions and writing ideas.
 
 Note:
 

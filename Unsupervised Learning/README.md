@@ -6,7 +6,7 @@ For clustering, the goal is to group a set of objects such that objects in the s
 
 For anomaly detection, the goal is to identify rare events or observations which are suspicious. That is, they are quite different from the standard ones. 
 
-A latent variable model is used to relate a set of observable variables to a set of unobserved variables (i.e., latent variables).
+A latent variable model is to relate a set of observable variables to a set of unobserved variables (i.e., latent variables).
 
 Reference:
 1. https://en.wikipedia.org/wiki/Unsupervised_learning

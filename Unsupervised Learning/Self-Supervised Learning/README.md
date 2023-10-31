@@ -6,7 +6,7 @@ Contrastive methods,
 Booststrapping methods,
 Simple extra regularization methods
 
-Contrastive self-supervised learning uses both positive and negative examples.
+Contrastive self-supervised learning uses both positive and negative examples, while non-contrastive one uses positive examples only.
 
 
 Include Generative Adversarial Networks (GANs)

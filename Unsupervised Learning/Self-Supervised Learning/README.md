@@ -8,7 +8,7 @@ Simple extra regularization methods
 
 Generative methods can generate data instances.
 
-Contrastive self-supervised learning uses both positive and negative examples, while non-contrastive one uses positive examples only.
+Contrastive self-supervised learning uses both positive and negative examples, while non-contrastive self-supervised learning uses positive examples only.
 
 
 Include Generative Adversarial Networks (GANs)

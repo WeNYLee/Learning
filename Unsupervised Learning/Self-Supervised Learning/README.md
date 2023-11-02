@@ -1,5 +1,7 @@
 A type of unsupervised learning
 
+Self-supervised learning creates labels for the data.
+
 Generative methods, 
 Predictive methods,
 Contrastive methods,

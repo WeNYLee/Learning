@@ -6,4 +6,6 @@ Classification: predict a state, such as a music genre (Jazz, Rock, etc.). Gener
 
 The idea of support vector machines is to find a hyperplane that divides the given data instances into two categories, while maximizing the width of the gap between the two categories.
 
-Navie Bayes are based on Bayes' theorem.
+Navie Bayes is based on Bayes' theorem.
+
+An instance is classified based on the plurality vote of its neighbors.

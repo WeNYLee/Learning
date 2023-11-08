@@ -1,4 +1,4 @@
-Data are unlabeled.
+All data are unlabeled.
 
 Methods include (1) clustering, (2) anomaly detection, and (3) approaches for learning latent variable models [1]. 
 

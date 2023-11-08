@@ -8,4 +8,4 @@ The idea of support vector machines is to find a hyperplane that divides the giv
 
 Navie Bayes is based on Bayes' theorem.
 
-An instance is classified based on the plurality vote of its neighbors.
+The idea of k-Nearest Neighbors is to classify an instance based on the plurality vote of its k neighbors.

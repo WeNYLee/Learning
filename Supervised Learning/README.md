@@ -6,6 +6,6 @@ Classification: predict a state, such as a music genre (Jazz, Rock, etc.). Gener
 
 The idea of support vector machines is to find a hyperplane that divides the given data instances into two categories, while maximizing the width of the gap between the two categories.
 
-Navie Bayes is based on Bayes' theorem. Bayes' theorem describes the probability of an event, based on prior knowledge of conditions that might be relevant to the event. The Naive Bayes classifier assumes that the value of a feature is independent of those of other features.
+Navie Bayes is a conditional probability model, which is based on Bayes' theorem. Bayes' theorem describes the probability of an event, based on prior knowledge of conditions that might be relevant to the event. The Naive Bayes classifier assumes that the value of a feature is independent of those of other features.
 
 The idea of k-Nearest Neighbors is to classify an instance based on the plurality vote of its k neighbors.

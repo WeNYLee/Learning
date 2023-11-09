@@ -10,6 +10,8 @@ Polynomial regression
 
 Stepwise regression
 
+Lasso regression
+
 
 Classification: predict a state, such as a music genre (Jazz, Rock, etc.). Generally, there are four types of classification tasks, including (1) binary classification, (2) multi-class classification, (3) multi-label classification, and (4) imbalanced classification. So far, there have been many classification methods, such as support vector machines, Naive Bayes, and k-Nearest Neighbors.
 

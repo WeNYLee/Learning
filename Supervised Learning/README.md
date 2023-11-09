@@ -2,6 +2,10 @@ Use labeled datasets to train a model to predict the outcomes. Generally, there 
 
 Regression: predict a number, such as the length of a table. There have been many regression methods, such as linear regression, logistic regression, polynomial regression, stepwise regression, Lasso regression, and elastic net regression.
 
+Linear regression predicts the value of a variable based on a linear relationship of the values of the others.
+
+
+
 Classification: predict a state, such as a music genre (Jazz, Rock, etc.). Generally, there are four types of classification tasks, including (1) binary classification, (2) multi-class classification, (3) multi-label classification, and (4) imbalanced classification. So far, there have been many classification methods, such as support vector machines, Naive Bayes, and k-Nearest Neighbors.
 
 The idea of support vector machines is to find a hyperplane that divides the given data instances into two categories, aiming to maximizing the width of the gap between the two categories.

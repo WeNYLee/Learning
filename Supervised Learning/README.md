@@ -10,7 +10,7 @@ Polynomial regression can be used to model non-linearly separable data.
 
 Stepwise regression iteratively identifies the significance of each independent variable in a linear regression model.
 
-Lasso regression
+Lasso regression (least absolute shrinkage and selection operator)
 
 
 Classification: predict a state, such as a music genre (Jazz, Rock, etc.). Generally, there are four types of classification tasks, including (1) binary classification, (2) multi-class classification, (3) multi-label classification, and (4) imbalanced classification. So far, there have been many classification methods, such as support vector machines, Naive Bayes, and k-Nearest Neighbors.

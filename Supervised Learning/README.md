@@ -6,7 +6,7 @@ Linear regression predicts the value of a variable based on a linear relationshi
 
 Logistic regression is to predict the parameters of a logistic model.
 
-Polynomial regression
+Polynomial regression can be used to model non-linearly separable data.
 
 Stepwise regression
 

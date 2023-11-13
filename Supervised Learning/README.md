@@ -8,7 +8,7 @@ Logistic regression is to predict the parameters of a logistic model.
 
 Polynomial regression can be used to model non-linearly separable data.
 
-Stepwise regression
+Stepwise regression iteratively identifies the significance of each independent variable in a linear regression model.
 
 Lasso regression
 

@@ -2,7 +2,7 @@ Use labeled datasets to train a model to predict the outcomes. Generally, there 
 
 Regression: predict a number, such as the length of a table. There have been many regression methods, such as linear regression, logistic regression, polynomial regression, stepwise regression, Lasso regression, and elastic net regression.
 
-Linear regression predicts the value of a variable based on a linear relationship of the values of the others.
+Linear regression predicts the value of a variable based on a linear relationship of the values of the others. Linear regression works well when data are linearly separable.
 
 Logistic regression is to predict the parameters of a logistic model.
 
